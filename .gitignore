@@ -1,0 +1,7 @@
+*.zip
+.terraform
+*.tfstate
+*.tfstate.*
+/aws/
+awscliv2.zip
+.terraform/
